@@ -175,3 +175,182 @@ export const argentina = [
     "protocol": "HTTP"
   }
 ]
+
+export const fast = [
+  {
+    "server": "159.203.87.130",
+    "port": "3128",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "157.245.124.217",
+    "port": "3128",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "206.189.235.156",
+    "port": "80",
+    "protocol": "HTTP"
+  },
+  {
+    "server": "167.99.236.14",
+    "port": "80",
+    "protocol": "HTTP"
+  },
+  {
+    "server": "167.172.248.53",
+    "port": "80",
+    "protocol": "HTTP"
+  },
+  {
+    "server": "165.22.13.92",
+    "port": "8080",
+    "protocol": "HTTP"
+  },
+  {
+    "server": "192.241.136.184",
+    "port": "80",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "165.227.248.222",
+    "port": "3128",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "34.197.159.149",
+    "port": "8888",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "104.211.29.96",
+    "port": "80",
+    "protocol": "HTTP"
+  },
+  {
+    "server": "68.183.123.186",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "142.93.57.37",
+    "port": "80",
+    "protocol": "HTTP"
+  },
+  {
+    "server": "68.183.125.104",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "45.79.159.216",
+    "port": "80",
+    "protocol": "HTTP"
+  },
+  {
+    "server": "138.197.5.192",
+    "port": "8888",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "142.93.248.230",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "159.89.245.69",
+    "port": "3128",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "68.183.105.214",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "34.73.35.73",
+    "port": "80",
+    "protocol": "HTTP"
+  },
+  {
+    "server": "155.138.239.63",
+    "port": "808",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "167.71.83.150",
+    "port": "3128",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "104.248.226.203",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "64.235.204.107",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "155.138.239.136",
+    "port": "808",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "155.138.165.159",
+    "port": "808",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "45.55.62.247",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "142.93.184.47",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "198.46.169.48",
+    "port": "12345",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "155.138.219.222",
+    "port": "808",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "192.227.191.145",
+    "port": "80",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "142.93.72.206",
+    "port": "3128",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "142.44.247.94",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "142.93.150.5",
+    "port": "8080",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "54.236.220.79",
+    "port": "3128",
+    "protocol": "HTTPS"
+  },
+  {
+    "server": "108.179.219.10",
+    "port": "80",
+    "protocol": "HTTP"
+  }
+]
+

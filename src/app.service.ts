@@ -9,6 +9,7 @@ export class AppService {
   getClash(): any {
     let doc: any;
     const arProxy = [];
+    const fastProxy = [];
     let i = 1;
     try {
       doc = yaml.safeLoad(fs.readFileSync(__dirname + '/clash.yml', 'utf8'));
@@ -32,7 +33,7 @@ export class AppService {
       i++;
     }
     console.log(doc)
-    doc['Proxy Group'][0].proxies = arProxy;
+    doc['Proxy Group'][1].proxies = arProxy;
     return YAML.stringify(doc);
   }
 }
